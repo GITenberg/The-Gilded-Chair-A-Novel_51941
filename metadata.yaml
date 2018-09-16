@@ -1,0 +1,39 @@
+_repo: The-Gilded-Chair-A-Novel_51941
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Wenzell, A. B. (Albert Beck)
+    aliases:
+    - Wenzell, Albert B. (Albert Beck)
+    - Wenzel, A. B. (Albert Beck)
+    birthdate: 1864
+    deathdate: 1917
+    gutenberg_agent_id: '7859'
+    url: http://www.gutenberg.org/2009/agents/7859
+  - agent_name: Becher, Arthur E.
+    alias: Becher, A. E. (Arthur E.)
+    gutenberg_agent_id: '31735'
+    url: http://www.gutenberg.org/2009/agents/31735
+creator:
+  author:
+    agent_name: Post, Melville Davisson
+    birthdate: 1871
+    deathdate: 1930
+    gutenberg_agent_id: '1055'
+    url: http://www.gutenberg.org/2009/agents/1055
+    wikipedia: http://en.wikipedia.org/wiki/Melville_Davisson_Post
+description: ''
+gutenberg_issued: '2016-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51941'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'The Gilded Chair: A Novel'
+url: http://www.gutenberg.org/ebooks/51941
